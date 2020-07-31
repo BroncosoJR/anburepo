@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "ADAmantiumPool",
+"description": "Strong and Reliable, like Wolverine’s ADAmantium Claws",
+"ticker": "ADAMP",
+"homepage": "https://twitter.com/adamantiumpool"
+}
+EOF
